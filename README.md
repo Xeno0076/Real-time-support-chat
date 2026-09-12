@@ -192,5 +192,10 @@ The platform comes pre-seeded with accounts for immediate testing:
 
 ---
 
-## License
-MIT
+## Author
+
+Manish Kapil
+
+Full Stack Web Developer
+
+Intern ID - CITS2551
