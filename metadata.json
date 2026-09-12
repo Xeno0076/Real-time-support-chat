@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Support Chat",
+  "description": "A real-time customer support platform with live messaging, role-based customer and agent dashboards, and conversation tracking powered by Socket.IO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
